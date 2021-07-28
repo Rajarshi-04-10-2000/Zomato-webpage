@@ -49,6 +49,7 @@ body {
   width: 100%;
 }
 
+
 .container {
   max-width: 100%;
   padding :20px;
@@ -66,11 +67,15 @@ body {
   padding: 15px;
 }
 .food_card {
+  border-radius: 8px 8px 0 0;
   background-color: #F9F9F9;
   box-shadow:0 25px 50px -12px rgb(0 0 0 / 45%)
+
 }
 .food__card__image__container {
   width: 100%;
+  border-radius: 8px 8px 0 0;
+
 }
 .food__image {
   border-radius: 8px 8px 0 0;
